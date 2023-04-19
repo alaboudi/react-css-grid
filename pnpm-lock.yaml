@@ -11,6 +11,7 @@ specifiers:
   '@storybook/react': ^7.0.6
   '@storybook/react-webpack5': ^7.0.6
   '@storybook/testing-library': ^0.0.14-next.2
+  '@types/react': ^18.0.37
   prop-types: ^15.8.1
   react: ^18.2.0
   react-dom: ^18.2.0
@@ -31,6 +32,7 @@ devDependencies:
   '@storybook/react': 7.0.6_tvrvbu6r5w7oyqiu4bvze3slou
   '@storybook/react-webpack5': 7.0.6_tvrvbu6r5w7oyqiu4bvze3slou
   '@storybook/testing-library': 0.0.14-next.2
+  '@types/react': 18.0.37
   prop-types: 15.8.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
